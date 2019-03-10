@@ -1,0 +1,2207 @@
+[{
+	"Id": "8",
+	"AreaName": "北京",
+	"Domain": "bj",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "beijing",
+	"PY": "bj"
+}, {
+	"Id": "10",
+	"AreaName": "上海",
+	"Domain": "sh",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "shanghai",
+	"PY": "sh"
+}, {
+	"Id": "9",
+	"AreaName": "天津",
+	"Domain": "tj",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "tianjin",
+	"PY": "tj"
+}, {
+	"Id": "11",
+	"AreaName": "重庆",
+	"Domain": "cq",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "chongqing",
+	"PY": "cq"
+}, {
+	"Id": "2",
+	"AreaName": "南京",
+	"Domain": "nj",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "nanjing",
+	"PY": "nj"
+}, {
+	"Id": "4",
+	"AreaName": "镇江",
+	"Domain": "zj",
+	"PinYin": "zhenjiang",
+	"PY": "zj"
+}, {
+	"Id": "3",
+	"AreaName": "苏州",
+	"Domain": "suzhou",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "suzhou",
+	"PY": "sz"
+}, {
+	"Id": "405",
+	"AreaName": "江阴",
+	"Domain": "jy",
+	"PinYin": "jiangyin",
+	"PY": "jy"
+}, {
+	"Id": "13",
+	"AreaName": "泰州",
+	"Domain": "tz",
+	"PinYin": "taizhou",
+	"PY": "tz"
+}, {
+	"Id": "12",
+	"AreaName": "南通",
+	"Domain": "nt",
+	"PinYin": "nantong",
+	"PY": "nt"
+}, {
+	"Id": "14",
+	"AreaName": "淮安",
+	"Domain": "ha",
+	"PinYin": "huaian",
+	"PY": "ha"
+}, {
+	"Id": "15",
+	"AreaName": "盐城",
+	"Domain": "yancheng",
+	"PinYin": "yancheng",
+	"PY": "yc"
+}, {
+	"Id": "16",
+	"AreaName": "宿迁",
+	"Domain": "suqian",
+	"PinYin": "suqian",
+	"PY": "sq"
+}, {
+	"Id": "18",
+	"AreaName": "连云港",
+	"Domain": "lyg",
+	"PinYin": "lianyungang",
+	"PY": "lyg"
+}, {
+	"Id": "6",
+	"AreaName": "常州",
+	"Domain": "cz",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "changzhou",
+	"PY": "cz"
+}, {
+	"Id": "407",
+	"AreaName": "昆山",
+	"Domain": "ks",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "kunshan",
+	"PY": "ks"
+}, {
+	"Id": "7",
+	"AreaName": "扬州",
+	"Domain": "yz",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "yangzhou",
+	"PY": "yz"
+}, {
+	"Id": "17",
+	"AreaName": "徐州",
+	"Domain": "xz",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "xuzhou",
+	"PY": "xz"
+}, {
+	"Id": "5",
+	"AreaName": "无锡",
+	"Domain": "wx",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "wuxi",
+	"PY": "wx"
+}, {
+	"Id": "185",
+	"AreaName": "蚌埠",
+	"Domain": "bengbu",
+	"PinYin": "bangbu",
+	"PY": "bb"
+}, {
+	"Id": "186",
+	"AreaName": "淮南",
+	"Domain": "hn",
+	"PinYin": "huainan",
+	"PY": "hn"
+}, {
+	"Id": "187",
+	"AreaName": "马鞍山",
+	"Domain": "mas",
+	"PinYin": "maanshan",
+	"PY": "mas"
+}, {
+	"Id": "188",
+	"AreaName": "淮北",
+	"Domain": "huaibei",
+	"PinYin": "huaibei",
+	"PY": "hb"
+}, {
+	"Id": "189",
+	"AreaName": "铜陵",
+	"Domain": "tongling",
+	"PinYin": "tongling",
+	"PY": "tl"
+}, {
+	"Id": "190",
+	"AreaName": "安庆",
+	"Domain": "aq",
+	"PinYin": "anqing",
+	"PY": "aq"
+}, {
+	"Id": "191",
+	"AreaName": "黄山",
+	"Domain": "huangshan",
+	"PinYin": "huangshan",
+	"PY": "hs"
+}, {
+	"Id": "192",
+	"AreaName": "滁州",
+	"Domain": "chuzhou",
+	"PinYin": "chuzhou",
+	"PY": "cz"
+}, {
+	"Id": "193",
+	"AreaName": "阜阳",
+	"Domain": "fy",
+	"PinYin": "fuyang",
+	"PY": "fy"
+}, {
+	"Id": "194",
+	"AreaName": "巢湖",
+	"Domain": "ch",
+	"PinYin": "chaohu",
+	"PY": "ch"
+}, {
+	"Id": "195",
+	"AreaName": "六安",
+	"Domain": "la",
+	"PinYin": "liuan",
+	"PY": "la"
+}, {
+	"Id": "196",
+	"AreaName": "亳州",
+	"Domain": "bozhou",
+	"PinYin": "bozhou",
+	"PY": "b"
+}, {
+	"Id": "197",
+	"AreaName": "宣城",
+	"Domain": "xuancheng",
+	"PinYin": "xuancheng",
+	"PY": "xc"
+}, {
+	"Id": "198",
+	"AreaName": "池州",
+	"Domain": "chizhou",
+	"PinYin": "chizhou",
+	"PY": "cz"
+}, {
+	"Id": "430",
+	"AreaName": "宿州",
+	"Domain": "suzhouanhui",
+	"PinYin": "suzhou",
+	"PY": "sz"
+}, {
+	"Id": "183",
+	"AreaName": "合肥",
+	"Domain": "hf",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "hefei",
+	"PY": "hf"
+}, {
+	"Id": "184",
+	"AreaName": "芜湖",
+	"Domain": "wuhu",
+	"PinYin": "wuhu",
+	"PY": "wh"
+}, {
+	"Id": "200",
+	"AreaName": "绍兴",
+	"Domain": "sx",
+	"PinYin": "shaoxing",
+	"PY": "sx"
+}, {
+	"Id": "201",
+	"AreaName": "丽水",
+	"Domain": "lishui",
+	"PinYin": "lishui",
+	"PY": "ls"
+}, {
+	"Id": "203",
+	"AreaName": "台州",
+	"Domain": "taizhou",
+	"PinYin": "taizhou",
+	"PY": "tz"
+}, {
+	"Id": "204",
+	"AreaName": "衢州",
+	"Domain": "quzhou",
+	"PinYin": "quzhou",
+	"PY": "qz"
+}, {
+	"Id": "199",
+	"AreaName": "杭州",
+	"Domain": "hz",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "hangzhou",
+	"PY": "hz"
+}, {
+	"Id": "205",
+	"AreaName": "湖州",
+	"Domain": "huzhou",
+	"PinYin": "huzhou",
+	"PY": "hz"
+}, {
+	"Id": "206",
+	"AreaName": "金华",
+	"Domain": "jh",
+	"PinYin": "jinhua",
+	"PY": "jh"
+}, {
+	"Id": "207",
+	"AreaName": "温州",
+	"Domain": "wz",
+	"PinYin": "wenzhou",
+	"PY": "wz"
+}, {
+	"Id": "209",
+	"AreaName": "舟山",
+	"Domain": "zhoushan",
+	"PinYin": "zhoushan",
+	"PY": "zs"
+}, {
+	"Id": "208",
+	"AreaName": "嘉兴",
+	"Domain": "jx",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "jiaxing",
+	"PY": "jx"
+}, {
+	"Id": "202",
+	"AreaName": "宁波",
+	"Domain": "nb",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "ningbo",
+	"PY": "nb"
+}, {
+	"Id": "211",
+	"AreaName": "淄博",
+	"Domain": "zb",
+	"PinYin": "zibo",
+	"PY": "zb"
+}, {
+	"Id": "212",
+	"AreaName": "东营",
+	"Domain": "dongying",
+	"PinYin": "dongying",
+	"PY": "dy"
+}, {
+	"Id": "213",
+	"AreaName": "烟台",
+	"Domain": "yt",
+	"PinYin": "yantai",
+	"PY": "yt"
+}, {
+	"Id": "215",
+	"AreaName": "莱芜",
+	"Domain": "lw",
+	"PinYin": "laiwu",
+	"PY": "lw"
+}, {
+	"Id": "216",
+	"AreaName": "济宁",
+	"Domain": "jining",
+	"PinYin": "jining",
+	"PY": "jn"
+}, {
+	"Id": "217",
+	"AreaName": "菏泽",
+	"Domain": "heze",
+	"PinYin": "heze",
+	"PY": "hz"
+}, {
+	"Id": "218",
+	"AreaName": "日照",
+	"Domain": "rz",
+	"PinYin": "rizhao",
+	"PY": "rz"
+}, {
+	"Id": "219",
+	"AreaName": "聊城",
+	"Domain": "liaocheng",
+	"PinYin": "liaocheng",
+	"PY": "lc"
+}, {
+	"Id": "220",
+	"AreaName": "德州",
+	"Domain": "dezhou",
+	"PinYin": "dezhou",
+	"PY": "dz"
+}, {
+	"Id": "221",
+	"AreaName": "滨州",
+	"Domain": "binzhou",
+	"PinYin": "binzhou",
+	"PY": "bz"
+}, {
+	"Id": "222",
+	"AreaName": "潍坊",
+	"Domain": "wf",
+	"PinYin": "weifang",
+	"PY": "wf"
+}, {
+	"Id": "223",
+	"AreaName": "威海",
+	"Domain": "weihai",
+	"PinYin": "weihai",
+	"PY": "wh"
+}, {
+	"Id": "224",
+	"AreaName": "泰安",
+	"Domain": "ta",
+	"PinYin": "taian",
+	"PY": "ta"
+}, {
+	"Id": "225",
+	"AreaName": "临沂",
+	"Domain": "linyi",
+	"PinYin": "linyi",
+	"PY": "ly"
+}, {
+	"Id": "226",
+	"AreaName": "枣庄",
+	"Domain": "zaozhuang",
+	"PinYin": "zaozhuang",
+	"PY": "zz"
+}, {
+	"Id": "210",
+	"AreaName": "济南",
+	"Domain": "jn",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "jinan",
+	"PY": "jn"
+}, {
+	"Id": "214",
+	"AreaName": "青岛",
+	"Domain": "qd",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "qingdao",
+	"PY": "qd"
+}, {
+	"Id": "228",
+	"AreaName": "莆田",
+	"Domain": "pt",
+	"PinYin": "putian",
+	"PY": "pt"
+}, {
+	"Id": "229",
+	"AreaName": "南平",
+	"Domain": "np",
+	"PinYin": "nanping",
+	"PY": "np"
+}, {
+	"Id": "230",
+	"AreaName": "宁德",
+	"Domain": "nd",
+	"PinYin": "ningde",
+	"PY": "nd"
+}, {
+	"Id": "232",
+	"AreaName": "漳州",
+	"Domain": "zhangzhou",
+	"PinYin": "zhangzhou",
+	"PY": "zz"
+}, {
+	"Id": "233",
+	"AreaName": "龙岩",
+	"Domain": "longyan",
+	"PinYin": "longyan",
+	"PY": "ly"
+}, {
+	"Id": "234",
+	"AreaName": "三明",
+	"Domain": "sanming",
+	"PinYin": "sanming",
+	"PY": "sm"
+}, {
+	"Id": "227",
+	"AreaName": "福州",
+	"Domain": "fz",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "fuzhou",
+	"PY": "fz"
+}, {
+	"Id": "231",
+	"AreaName": "厦门",
+	"Domain": "xm",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "xiamen",
+	"PY": "xm"
+}, {
+	"Id": "235",
+	"AreaName": "泉州",
+	"Domain": "qz",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "quanzhou",
+	"PY": "qz"
+}, {
+	"Id": "237",
+	"AreaName": "清远",
+	"Domain": "qingyuan",
+	"PinYin": "qingyuan",
+	"PY": "qy"
+}, {
+	"Id": "246",
+	"AreaName": "深圳",
+	"Domain": "sz",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "shen",
+	"PY": "s"
+}, {
+	"Id": "236",
+	"AreaName": "广州",
+	"Domain": "gz",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "guangzhou",
+	"PY": "gz"
+}, {
+	"Id": "239",
+	"AreaName": "韶关",
+	"Domain": "sg",
+	"PinYin": "shaoguan",
+	"PY": "sg"
+}, {
+	"Id": "240",
+	"AreaName": "梅州",
+	"Domain": "mz",
+	"PinYin": "meizhou",
+	"PY": "mz"
+}, {
+	"Id": "241",
+	"AreaName": "汕头",
+	"Domain": "st",
+	"PinYin": "shantou",
+	"PY": "st"
+}, {
+	"Id": "242",
+	"AreaName": "潮州",
+	"Domain": "chaozhou",
+	"PinYin": "chaozhou",
+	"PY": "cz"
+}, {
+	"Id": "243",
+	"AreaName": "惠州",
+	"Domain": "huizhou",
+	"PinYin": "huizhou",
+	"PY": "hz"
+}, {
+	"Id": "244",
+	"AreaName": "汕尾",
+	"Domain": "sw",
+	"PinYin": "shanwei",
+	"PY": "sw"
+}, {
+	"Id": "245",
+	"AreaName": "河源",
+	"Domain": "heyuan",
+	"PinYin": "heyuan",
+	"PY": "hy"
+}, {
+	"Id": "247",
+	"AreaName": "茂名",
+	"Domain": "mm",
+	"PinYin": "maoming",
+	"PY": "mm"
+}, {
+	"Id": "249",
+	"AreaName": "中山",
+	"Domain": "zs",
+	"PinYin": "zhongshan",
+	"PY": "zs"
+}, {
+	"Id": "250",
+	"AreaName": "阳江",
+	"Domain": "yangjiang",
+	"PinYin": "yangjiang",
+	"PY": "yj"
+}, {
+	"Id": "251",
+	"AreaName": "江门",
+	"Domain": "jiangmen",
+	"PinYin": "jiangmen",
+	"PY": "jm"
+}, {
+	"Id": "252",
+	"AreaName": "肇庆",
+	"Domain": "zq",
+	"PinYin": "zhaoqing",
+	"PY": "zq"
+}, {
+	"Id": "253",
+	"AreaName": "湛江",
+	"Domain": "zhanjiang",
+	"PinYin": "zhanjiang",
+	"PY": "zj"
+}, {
+	"Id": "254",
+	"AreaName": "珠海",
+	"Domain": "zh",
+	"PinYin": "zhuhai",
+	"PY": "zh"
+}, {
+	"Id": "255",
+	"AreaName": "云浮",
+	"Domain": "yf",
+	"PinYin": "yunfu",
+	"PY": "yf"
+}, {
+	"Id": "256",
+	"AreaName": "揭阳",
+	"Domain": "jieyang",
+	"PinYin": "jieyang",
+	"PY": "jy"
+}, {
+	"Id": "248",
+	"AreaName": "佛山",
+	"Domain": "fs",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "foshan",
+	"PY": "fs"
+}, {
+	"Id": "238",
+	"AreaName": "东莞",
+	"Domain": "dg",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "dong",
+	"PY": "d"
+}, {
+	"Id": "258",
+	"AreaName": "九江",
+	"Domain": "jj",
+	"PinYin": "jiujiang",
+	"PY": "jj"
+}, {
+	"Id": "259",
+	"AreaName": "上饶",
+	"Domain": "sr",
+	"PinYin": "shangrao",
+	"PY": "sr"
+}, {
+	"Id": "260",
+	"AreaName": "鹰潭",
+	"Domain": "yingtan",
+	"PinYin": "yingtan",
+	"PY": "yt"
+}, {
+	"Id": "261",
+	"AreaName": "宜春",
+	"Domain": "yichun",
+	"PinYin": "yichun",
+	"PY": "yc"
+}, {
+	"Id": "262",
+	"AreaName": "新余",
+	"Domain": "xinyu",
+	"PinYin": "xinyu",
+	"PY": "xy"
+}, {
+	"Id": "263",
+	"AreaName": "赣州",
+	"Domain": "ganzhou",
+	"PinYin": "ganzhou",
+	"PY": "gz"
+}, {
+	"Id": "264",
+	"AreaName": "吉安",
+	"Domain": "ja",
+	"PinYin": "jian",
+	"PY": "j"
+}, {
+	"Id": "265",
+	"AreaName": "抚州",
+	"Domain": "fuzhou",
+	"PinYin": "fuzhou",
+	"PY": "fz"
+}, {
+	"Id": "266",
+	"AreaName": "萍乡",
+	"Domain": "px",
+	"PinYin": "pingxiang",
+	"PY": "px"
+}, {
+	"Id": "267",
+	"AreaName": "景德镇",
+	"Domain": "jdz",
+	"PinYin": "jingdezhen",
+	"PY": "jdz"
+}, {
+	"Id": "257",
+	"AreaName": "南昌",
+	"Domain": "nc",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "nanchang",
+	"PY": "nc"
+}, {
+	"Id": "269",
+	"AreaName": "湘潭",
+	"Domain": "xiangtan",
+	"PinYin": "xiangtan",
+	"PY": "xt"
+}, {
+	"Id": "270",
+	"AreaName": "株洲",
+	"Domain": "zhuzhou",
+	"PinYin": "zhuzhou",
+	"PY": "zz"
+}, {
+	"Id": "271",
+	"AreaName": "益阳",
+	"Domain": "yiyang",
+	"PinYin": "yiyang",
+	"PY": "yy"
+}, {
+	"Id": "272",
+	"AreaName": "岳阳",
+	"Domain": "yueyang",
+	"PinYin": "yueyang",
+	"PY": "yy"
+}, {
+	"Id": "273",
+	"AreaName": "常德",
+	"Domain": "changde",
+	"PinYin": "changde",
+	"PY": "cd"
+}, {
+	"Id": "274",
+	"AreaName": "吉首",
+	"Domain": "js",
+	"PinYin": "jishou",
+	"PY": "js"
+}, {
+	"Id": "275",
+	"AreaName": "娄底",
+	"Domain": "ld",
+	"PinYin": "loudi",
+	"PY": "ld"
+}, {
+	"Id": "276",
+	"AreaName": "怀化",
+	"Domain": "huaihua",
+	"PinYin": "huaihua",
+	"PY": "hh"
+}, {
+	"Id": "268",
+	"AreaName": "长沙",
+	"Domain": "cs",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "changsha",
+	"PY": "cs"
+}, {
+	"Id": "277",
+	"AreaName": "邵阳",
+	"Domain": "shaoyang",
+	"PinYin": "shaoyang",
+	"PY": "sy"
+}, {
+	"Id": "278",
+	"AreaName": "郴州",
+	"Domain": "chenzhou",
+	"PinYin": "chenzhou",
+	"PY": "cz"
+}, {
+	"Id": "279",
+	"AreaName": "衡阳",
+	"Domain": "hengyang",
+	"PinYin": "hengyang",
+	"PY": "hy"
+}, {
+	"Id": "280",
+	"AreaName": "永州",
+	"Domain": "yongzhou",
+	"PinYin": "yongzhou",
+	"PY": "yz"
+}, {
+	"Id": "281",
+	"AreaName": "张家界",
+	"Domain": "zjj",
+	"PinYin": "zhangjiajie",
+	"PY": "zjj"
+}, {
+	"Id": "283",
+	"AreaName": "天门",
+	"Domain": "tm",
+	"PinYin": "tianmen",
+	"PY": "tm"
+}, {
+	"Id": "284",
+	"AreaName": "孝感",
+	"Domain": "xiaogan",
+	"PinYin": "xiaogan",
+	"PY": "xg"
+}, {
+	"Id": "285",
+	"AreaName": "荆州",
+	"Domain": "jingzhou",
+	"PinYin": "jingzhou",
+	"PY": "jz"
+}, {
+	"Id": "286",
+	"AreaName": "黄石",
+	"Domain": "huangshi",
+	"PinYin": "huangshi",
+	"PY": "hs"
+}, {
+	"Id": "287",
+	"AreaName": "鄂州",
+	"Domain": "ez",
+	"PinYin": "ezhou",
+	"PY": "ez"
+}, {
+	"Id": "288",
+	"AreaName": "咸宁",
+	"Domain": "xianning",
+	"PinYin": "xianning",
+	"PY": "xn"
+}, {
+	"Id": "289",
+	"AreaName": "黄冈",
+	"Domain": "huanggang",
+	"PinYin": "huanggang",
+	"PY": "hg"
+}, {
+	"Id": "290",
+	"AreaName": "宜昌",
+	"Domain": "yichang",
+	"PinYin": "yichang",
+	"PY": "yc"
+}, {
+	"Id": "291",
+	"AreaName": "恩施",
+	"Domain": "es",
+	"PinYin": "enshi",
+	"PY": "es"
+}, {
+	"Id": "292",
+	"AreaName": "襄阳",
+	"Domain": "xf",
+	"PinYin": "xiangyang",
+	"PY": "xy"
+}, {
+	"Id": "293",
+	"AreaName": "随州",
+	"Domain": "suizhou",
+	"PinYin": "suizhou",
+	"PY": "sz"
+}, {
+	"Id": "294",
+	"AreaName": "荆门",
+	"Domain": "jingmen",
+	"PinYin": "jingmen",
+	"PY": "jm"
+}, {
+	"Id": "295",
+	"AreaName": "潜江",
+	"Domain": "qianjiang",
+	"PinYin": "qianjiang",
+	"PY": "qj"
+}, {
+	"Id": "296",
+	"AreaName": "十堰",
+	"Domain": "shiyan",
+	"PinYin": "shiyan",
+	"PY": "sy"
+}, {
+	"Id": "297",
+	"AreaName": "仙桃",
+	"Domain": "xiantao",
+	"PinYin": "xiantao",
+	"PY": "xt"
+}, {
+	"Id": "282",
+	"AreaName": "武汉",
+	"Domain": "wh",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "wuhan",
+	"PY": "wh"
+}, {
+	"Id": "299",
+	"AreaName": "巴中",
+	"Domain": "bazhong",
+	"PinYin": "bazhong",
+	"PY": "bz"
+}, {
+	"Id": "300",
+	"AreaName": "德阳",
+	"Domain": "deyang",
+	"PinYin": "deyang",
+	"PY": "dy"
+}, {
+	"Id": "301",
+	"AreaName": "雅安",
+	"Domain": "yaan",
+	"PinYin": "yaan",
+	"PY": "ya"
+}, {
+	"Id": "302",
+	"AreaName": "遂宁",
+	"Domain": "sn",
+	"PinYin": "suining",
+	"PY": "sn"
+}, {
+	"Id": "303",
+	"AreaName": "内江",
+	"Domain": "neijiang",
+	"PinYin": "neijiang",
+	"PY": "nj"
+}, {
+	"Id": "298",
+	"AreaName": "成都",
+	"Domain": "cd",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "chengdu",
+	"PY": "cd"
+}, {
+	"Id": "304",
+	"AreaName": "宜宾",
+	"Domain": "yb",
+	"PinYin": "yibin",
+	"PY": "yb"
+}, {
+	"Id": "305",
+	"AreaName": "马尔康",
+	"Domain": "mek",
+	"PinYin": "maerkang",
+	"PY": "mek"
+}, {
+	"Id": "306",
+	"AreaName": "达州",
+	"Domain": "dazhou",
+	"PinYin": "dazhou",
+	"PY": "dz"
+}, {
+	"Id": "307",
+	"AreaName": "资阳",
+	"Domain": "zy",
+	"PinYin": "ziyang",
+	"PY": "zy"
+}, {
+	"Id": "308",
+	"AreaName": "眉山",
+	"Domain": "ms",
+	"PinYin": "meishan",
+	"PY": "ms"
+}, {
+	"Id": "309",
+	"AreaName": "广元",
+	"Domain": "guangyuan",
+	"PinYin": "guangyuan",
+	"PY": "gy"
+}, {
+	"Id": "310",
+	"AreaName": "西昌",
+	"Domain": "xichang",
+	"PinYin": "xichang",
+	"PY": "xc"
+}, {
+	"Id": "311",
+	"AreaName": "康定",
+	"Domain": "kd",
+	"PinYin": "kangding",
+	"PY": "kd"
+}, {
+	"Id": "312",
+	"AreaName": "乐山",
+	"Domain": "leshan",
+	"PinYin": "leshan",
+	"PY": "ls"
+}, {
+	"Id": "313",
+	"AreaName": "攀枝花",
+	"Domain": "pzh",
+	"PinYin": "panzhihua",
+	"PY": "pzh"
+}, {
+	"Id": "314",
+	"AreaName": "绵阳",
+	"Domain": "my",
+	"PinYin": "mianyang",
+	"PY": "my"
+}, {
+	"Id": "315",
+	"AreaName": "广安",
+	"Domain": "ga",
+	"PinYin": "guangan",
+	"PY": "gg"
+}, {
+	"Id": "316",
+	"AreaName": "南充",
+	"Domain": "nanchong",
+	"PinYin": "nanchong",
+	"PY": "nc"
+}, {
+	"Id": "317",
+	"AreaName": "自贡",
+	"Domain": "zg",
+	"PinYin": "zigong",
+	"PY": "zg"
+}, {
+	"Id": "318",
+	"AreaName": "泸州",
+	"Domain": "luzhou",
+	"PinYin": "luzhou",
+	"PY": "lz"
+}, {
+	"Id": "320",
+	"AreaName": "衡水",
+	"Domain": "hengshui",
+	"PinYin": "hengshui",
+	"PY": "hs"
+}, {
+	"Id": "321",
+	"AreaName": "邯郸",
+	"Domain": "hd",
+	"PinYin": "handan",
+	"PY": "hd"
+}, {
+	"Id": "322",
+	"AreaName": "沧州",
+	"Domain": "cangzhou",
+	"PinYin": "cangzhou",
+	"PY": "cz"
+}, {
+	"Id": "323",
+	"AreaName": "秦皇岛",
+	"Domain": "qhd",
+	"PinYin": "qinhuangdao",
+	"PY": "qhd"
+}, {
+	"Id": "324",
+	"AreaName": "唐山",
+	"Domain": "tangshan",
+	"PinYin": "tangshan",
+	"PY": "ts"
+}, {
+	"Id": "325",
+	"AreaName": "承德",
+	"Domain": "chengde",
+	"PinYin": "chengde",
+	"PY": "cd"
+}, {
+	"Id": "326",
+	"AreaName": "保定",
+	"Domain": "bd",
+	"PinYin": "baoding",
+	"PY": "bd"
+}, {
+	"Id": "327",
+	"AreaName": "廊坊",
+	"Domain": "langfang",
+	"PinYin": "langfang",
+	"PY": "lf"
+}, {
+	"Id": "328",
+	"AreaName": "邢台",
+	"Domain": "xingtai",
+	"PinYin": "xingtai",
+	"PY": "xt"
+}, {
+	"Id": "329",
+	"AreaName": "张家口",
+	"Domain": "zjk",
+	"PinYin": "zhangjiakou",
+	"PY": "zjk"
+}, {
+	"Id": "319",
+	"AreaName": "石家庄",
+	"Domain": "sjz",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "shijiazhuang",
+	"PY": "sjz"
+}, {
+	"Id": "331",
+	"AreaName": "辽阳",
+	"Domain": "liaoyang",
+	"PinYin": "liaoyang",
+	"PY": "ly"
+}, {
+	"Id": "332",
+	"AreaName": "铁岭",
+	"Domain": "tieling",
+	"PinYin": "tieling",
+	"PY": "tl"
+}, {
+	"Id": "333",
+	"AreaName": "抚顺",
+	"Domain": "fushun",
+	"PinYin": "fushun",
+	"PY": "fs"
+}, {
+	"Id": "334",
+	"AreaName": "鞍山",
+	"Domain": "anshan",
+	"PinYin": "anshan",
+	"PY": "as"
+}, {
+	"Id": "335",
+	"AreaName": "阜新",
+	"Domain": "fx",
+	"PinYin": "fuxin",
+	"PY": "fx"
+}, {
+	"Id": "336",
+	"AreaName": "营口",
+	"Domain": "yk",
+	"PinYin": "yingkou",
+	"PY": "yk"
+}, {
+	"Id": "338",
+	"AreaName": "锦州",
+	"Domain": "jinzhou",
+	"PinYin": "jinzhou",
+	"PY": "jz"
+}, {
+	"Id": "339",
+	"AreaName": "朝阳",
+	"Domain": "cy",
+	"PinYin": "chaoyang",
+	"PY": "cy"
+}, {
+	"Id": "340",
+	"AreaName": "葫芦岛",
+	"Domain": "hld",
+	"PinYin": "huludao",
+	"PY": "hld"
+}, {
+	"Id": "341",
+	"AreaName": "丹东",
+	"Domain": "dd",
+	"PinYin": "dandong",
+	"PY": "dd"
+}, {
+	"Id": "342",
+	"AreaName": "本溪",
+	"Domain": "bx",
+	"PinYin": "benxi",
+	"PY": "bx"
+}, {
+	"Id": "343",
+	"AreaName": "盘锦",
+	"Domain": "pj",
+	"PinYin": "panjin",
+	"PY": "pj"
+}, {
+	"Id": "337",
+	"AreaName": "大连",
+	"Domain": "dl",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "dalian",
+	"PY": "dl"
+}, {
+	"Id": "330",
+	"AreaName": "沈阳",
+	"Domain": "sy",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "shenyang",
+	"PY": "sy"
+}, {
+	"Id": "345",
+	"AreaName": "吉林",
+	"Domain": "jl",
+	"PinYin": "jilin",
+	"PY": "jl"
+}, {
+	"Id": "346",
+	"AreaName": "通化",
+	"Domain": "th",
+	"PinYin": "tonghua",
+	"PY": "th"
+}, {
+	"Id": "347",
+	"AreaName": "四平",
+	"Domain": "sp",
+	"PinYin": "siping",
+	"PY": "sp"
+}, {
+	"Id": "348",
+	"AreaName": "辽源",
+	"Domain": "liaoyuan",
+	"PinYin": "liaoyuan",
+	"PY": "ly"
+}, {
+	"Id": "349",
+	"AreaName": "白山",
+	"Domain": "baishan",
+	"PinYin": "baishan",
+	"PY": "bs"
+}, {
+	"Id": "350",
+	"AreaName": "延吉",
+	"Domain": "yanji",
+	"PinYin": "yanji",
+	"PY": "yl"
+}, {
+	"Id": "351",
+	"AreaName": "松原",
+	"Domain": "songyuan",
+	"PinYin": "songyuan",
+	"PY": "sy"
+}, {
+	"Id": "352",
+	"AreaName": "白城",
+	"Domain": "bc",
+	"PinYin": "baicheng",
+	"PY": "bc"
+}, {
+	"Id": "344",
+	"AreaName": "长春",
+	"Domain": "cc",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "changchun",
+	"PY": "cc"
+}, {
+	"Id": "366",
+	"AreaName": "绥化",
+	"Domain": "suihua",
+	"PinYin": "suihua",
+	"PY": "sh"
+}, {
+	"Id": "367",
+	"AreaName": "伊春",
+	"Domain": "yichunhlj",
+	"PinYin": "yichun",
+	"PY": "yc"
+}, {
+	"Id": "368",
+	"AreaName": "佳木斯",
+	"Domain": "jms",
+	"PinYin": "jiamusi",
+	"PY": "jms"
+}, {
+	"Id": "369",
+	"AreaName": "鹤岗",
+	"Domain": "hegang",
+	"PinYin": "hegang",
+	"PY": "hg"
+}, {
+	"Id": "370",
+	"AreaName": "七台河",
+	"Domain": "qth",
+	"PinYin": "qitaihe",
+	"PY": "qth"
+}, {
+	"Id": "371",
+	"AreaName": "牡丹江",
+	"Domain": "mdj",
+	"PinYin": "mudanjiang",
+	"PY": "mdj"
+}, {
+	"Id": "372",
+	"AreaName": "鸡西",
+	"Domain": "jixi",
+	"PinYin": "jixi",
+	"PY": "jx"
+}, {
+	"Id": "373",
+	"AreaName": "齐齐哈尔",
+	"Domain": "qqhe",
+	"PinYin": "qiqihaer",
+	"PY": "qqh"
+}, {
+	"Id": "374",
+	"AreaName": "黑河",
+	"Domain": "heihe",
+	"PinYin": "heihe",
+	"PY": "hh"
+}, {
+	"Id": "375",
+	"AreaName": "大庆",
+	"Domain": "dq",
+	"PinYin": "daqing",
+	"PY": "dq"
+}, {
+	"Id": "376",
+	"AreaName": "双鸭山",
+	"Domain": "sys",
+	"PinYin": "shuangyashan",
+	"PY": "sys"
+}, {
+	"Id": "365",
+	"AreaName": "哈尔滨",
+	"Domain": "heb",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "haerbin",
+	"PY": "heb"
+}, {
+	"Id": "377",
+	"AreaName": "呼和浩特",
+	"Domain": "hhht",
+	"PinYin": "huhehaote",
+	"PY": "hhht"
+}, {
+	"Id": "378",
+	"AreaName": "包头",
+	"Domain": "bt",
+	"PinYin": "baotou",
+	"PY": "bt"
+}, {
+	"Id": "379",
+	"AreaName": "乌海",
+	"Domain": "wuhai",
+	"PinYin": "wuhai",
+	"PY": "wh"
+}, {
+	"Id": "380",
+	"AreaName": "赤峰",
+	"Domain": "cf",
+	"PinYin": "chifeng",
+	"PY": "cf"
+}, {
+	"Id": "381",
+	"AreaName": "通辽",
+	"Domain": "tongliao",
+	"PinYin": "tongliao",
+	"PY": "tl"
+}, {
+	"Id": "382",
+	"AreaName": "鄂尔多斯",
+	"Domain": "erds",
+	"PinYin": "eerduosi",
+	"PY": "eeds"
+}, {
+	"Id": "383",
+	"AreaName": "呼伦贝尔",
+	"Domain": "hlbe",
+	"PinYin": "hulunbeier",
+	"PY": "hlbe"
+}, {
+	"Id": "384",
+	"AreaName": "乌兰浩特",
+	"Domain": "wlht",
+	"PinYin": "wulanhaote",
+	"PY": "wlht"
+}, {
+	"Id": "385",
+	"AreaName": "巴彦淖尔",
+	"Domain": "ht",
+	"PinYin": "bayannaoer",
+	"PY": "byne"
+}, {
+	"Id": "386",
+	"AreaName": "阿拉善左旗",
+	"Domain": "alszq",
+	"PinYin": "alashanzuoqi",
+	"PY": "alszq"
+}, {
+	"Id": "387",
+	"AreaName": "乌兰察布",
+	"Domain": "wlcb",
+	"PinYin": "wulanchabu",
+	"PY": "wlcb"
+}, {
+	"Id": "388",
+	"AreaName": "锡林浩特",
+	"Domain": "xlht",
+	"PinYin": "xilinhaote",
+	"PY": "xlht"
+}, {
+	"Id": "389",
+	"AreaName": "二连浩特",
+	"Domain": "elht",
+	"PinYin": "erlianhaote",
+	"PY": "elht"
+}, {
+	"Id": "390",
+	"AreaName": "满洲里",
+	"Domain": "mzl",
+	"PinYin": "manzhouli",
+	"PY": "mzl"
+}, {
+	"Id": "391",
+	"AreaName": "加格达奇",
+	"Domain": "jgdq",
+	"PinYin": "jiagedaqi",
+	"PY": "jgdq"
+}, {
+	"Id": "178",
+	"AreaName": "银川",
+	"Domain": "yc",
+	"PinYin": "yinchuan",
+	"PY": "yc"
+}, {
+	"Id": "179",
+	"AreaName": "中卫",
+	"Domain": "zw",
+	"PinYin": "zhongwei",
+	"PY": "zw"
+}, {
+	"Id": "180",
+	"AreaName": "吴忠",
+	"Domain": "wuzhong",
+	"PinYin": "wuzhong",
+	"PY": "wz"
+}, {
+	"Id": "181",
+	"AreaName": "石嘴山",
+	"Domain": "szs",
+	"PinYin": "shizuishan",
+	"PY": "szs"
+}, {
+	"Id": "182",
+	"AreaName": "固原",
+	"Domain": "guyuan",
+	"PinYin": "guyuan",
+	"PY": "gy"
+}, {
+	"Id": "168",
+	"AreaName": "忻州",
+	"Domain": "xinzhou",
+	"PinYin": "xinzhou",
+	"PY": "xz"
+}, {
+	"Id": "169",
+	"AreaName": "临汾",
+	"Domain": "linfen",
+	"PinYin": "linfen",
+	"PY": "lf"
+}, {
+	"Id": "170",
+	"AreaName": "运城",
+	"Domain": "yuncheng",
+	"PinYin": "yuncheng",
+	"PY": "yc"
+}, {
+	"Id": "171",
+	"AreaName": "长治",
+	"Domain": "changzhi",
+	"PinYin": "changzhi",
+	"PY": "cz"
+}, {
+	"Id": "172",
+	"AreaName": "朔州",
+	"Domain": "shuozhou",
+	"PinYin": "shuozhou",
+	"PY": "sz"
+}, {
+	"Id": "173",
+	"AreaName": "大同",
+	"Domain": "dt",
+	"PinYin": "datong",
+	"PY": "dt"
+}, {
+	"Id": "174",
+	"AreaName": "阳泉",
+	"Domain": "yangquan",
+	"PinYin": "yangquan",
+	"PY": "yq"
+}, {
+	"Id": "175",
+	"AreaName": "晋城",
+	"Domain": "jincheng",
+	"PinYin": "jincheng",
+	"PY": "jc"
+}, {
+	"Id": "176",
+	"AreaName": "晋中",
+	"Domain": "jinzhong",
+	"PinYin": "jinzhong",
+	"PY": "jz"
+}, {
+	"Id": "177",
+	"AreaName": "吕梁",
+	"Domain": "lvliang",
+	"PinYin": "lvliang",
+	"PY": "ll"
+}, {
+	"Id": "167",
+	"AreaName": "太原",
+	"Domain": "ty",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "taiyuan",
+	"PY": "ty"
+}, {
+	"Id": "158",
+	"AreaName": "渭南",
+	"Domain": "wn",
+	"PinYin": "weinan",
+	"PY": "wn"
+}, {
+	"Id": "159",
+	"AreaName": "延安",
+	"Domain": "yanan",
+	"PinYin": "yanan",
+	"PY": "ya"
+}, {
+	"Id": "160",
+	"AreaName": "汉中",
+	"Domain": "hanzhong",
+	"PinYin": "hanzhong",
+	"PY": "hz"
+}, {
+	"Id": "161",
+	"AreaName": "咸阳",
+	"Domain": "xianyang",
+	"PinYin": "xianyang",
+	"PY": "xy"
+}, {
+	"Id": "162",
+	"AreaName": "宝鸡",
+	"Domain": "baoji",
+	"PinYin": "baoji",
+	"PY": "bj"
+}, {
+	"Id": "163",
+	"AreaName": "铜川",
+	"Domain": "tongchuan",
+	"PinYin": "tongchuan",
+	"PY": "tc"
+}, {
+	"Id": "164",
+	"AreaName": "商洛",
+	"Domain": "sl",
+	"PinYin": "shangluo",
+	"PY": "sl"
+}, {
+	"Id": "165",
+	"AreaName": "安康",
+	"Domain": "ankang",
+	"PinYin": "ankang",
+	"PY": "ak"
+}, {
+	"Id": "166",
+	"AreaName": "榆林",
+	"Domain": "yulin",
+	"PinYin": "yulin",
+	"PY": "yl"
+}, {
+	"Id": "157",
+	"AreaName": "西安",
+	"Domain": "xa",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "xian",
+	"PY": "x"
+}, {
+	"Id": "140",
+	"AreaName": "新乡",
+	"Domain": "xx",
+	"PinYin": "xinxiang",
+	"PY": "xx"
+}, {
+	"Id": "141",
+	"AreaName": "焦作",
+	"Domain": "jiaozuo",
+	"PinYin": "jiaozuo",
+	"PY": "jz"
+}, {
+	"Id": "142",
+	"AreaName": "安阳",
+	"Domain": "anyang",
+	"PinYin": "anyang",
+	"PY": "ay"
+}, {
+	"Id": "143",
+	"AreaName": "鹤壁",
+	"Domain": "hebi",
+	"PinYin": "hebi",
+	"PY": "hb"
+}, {
+	"Id": "144",
+	"AreaName": "濮阳",
+	"Domain": "py",
+	"PinYin": "puyang",
+	"PY": "p"
+}, {
+	"Id": "145",
+	"AreaName": "许昌",
+	"Domain": "xuchang",
+	"PinYin": "xuchang",
+	"PY": "xc"
+}, {
+	"Id": "146",
+	"AreaName": "漯河",
+	"Domain": "luohe",
+	"PinYin": "luohe",
+	"PY": "lh"
+}, {
+	"Id": "147",
+	"AreaName": "驻马店",
+	"Domain": "zmd",
+	"PinYin": "zhumadian",
+	"PY": "zmd"
+}, {
+	"Id": "148",
+	"AreaName": "信阳",
+	"Domain": "xinyang",
+	"PinYin": "xinyang",
+	"PY": "xy"
+}, {
+	"Id": "149",
+	"AreaName": "周口",
+	"Domain": "zk",
+	"PinYin": "zhoukou",
+	"PY": "zk"
+}, {
+	"Id": "139",
+	"AreaName": "郑州",
+	"Domain": "zz",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "zhengzhou",
+	"PY": "zz"
+}, {
+	"Id": "150",
+	"AreaName": "平顶山",
+	"Domain": "pds",
+	"PinYin": "pingdingshan",
+	"PY": "pds"
+}, {
+	"Id": "152",
+	"AreaName": "三门峡",
+	"Domain": "smx",
+	"PinYin": "sanmenxia",
+	"PY": "smx"
+}, {
+	"Id": "153",
+	"AreaName": "南阳",
+	"Domain": "ny",
+	"PinYin": "nanyang",
+	"PY": "ny"
+}, {
+	"Id": "154",
+	"AreaName": "开封",
+	"Domain": "kf",
+	"PinYin": "kaifeng",
+	"PY": "kf"
+}, {
+	"Id": "155",
+	"AreaName": "商丘",
+	"Domain": "shangqiu",
+	"PinYin": "shangqiu",
+	"PY": "sq"
+}, {
+	"Id": "156",
+	"AreaName": "济源",
+	"Domain": "jiyuan",
+	"PinYin": "jiyuan",
+	"PY": "jy"
+}, {
+	"Id": "151",
+	"AreaName": "洛阳",
+	"Domain": "ly",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "luoyang",
+	"PY": "ly"
+}, {
+	"Id": "126",
+	"AreaName": "白银",
+	"Domain": "baiyin",
+	"PinYin": "baiyin",
+	"PY": "by"
+}, {
+	"Id": "127",
+	"AreaName": "临夏",
+	"Domain": "linxia",
+	"PinYin": "linxia",
+	"PY": "lx"
+}, {
+	"Id": "128",
+	"AreaName": "武威",
+	"Domain": "wuwei",
+	"PinYin": "wuwei",
+	"PY": "ww"
+}, {
+	"Id": "129",
+	"AreaName": "张掖",
+	"Domain": "zhangye",
+	"PinYin": "zhangye",
+	"PY": "zy"
+}, {
+	"Id": "130",
+	"AreaName": "酒泉",
+	"Domain": "jq",
+	"PinYin": "jiuquan",
+	"PY": "jq"
+}, {
+	"Id": "131",
+	"AreaName": "金昌",
+	"Domain": "jinchang",
+	"PinYin": "jinchang",
+	"PY": "jc"
+}, {
+	"Id": "132",
+	"AreaName": "天水",
+	"Domain": "tianshui",
+	"PinYin": "tianshui",
+	"PY": "ts"
+}, {
+	"Id": "133",
+	"AreaName": "平凉",
+	"Domain": "pl",
+	"PinYin": "pingliang",
+	"PY": "pl"
+}, {
+	"Id": "134",
+	"AreaName": "嘉峪关",
+	"Domain": "jyg",
+	"PinYin": "jiayuguan",
+	"PY": "jyg"
+}, {
+	"Id": "135",
+	"AreaName": "甘南藏族自治州",
+	"Domain": "hezuo",
+	"PinYin": "gannancangzuzizhizhou",
+	"PY": "gnczzzz"
+}, {
+	"Id": "136",
+	"AreaName": "陇南",
+	"Domain": "ln",
+	"PinYin": "longnan",
+	"PY": "ln"
+}, {
+	"Id": "137",
+	"AreaName": "庆阳",
+	"Domain": "qingyang",
+	"PinYin": "qingyang",
+	"PY": "qy"
+}, {
+	"Id": "138",
+	"AreaName": "定西",
+	"Domain": "dx",
+	"PinYin": "dingxi",
+	"PY": "dx"
+}, {
+	"Id": "125",
+	"AreaName": "兰州",
+	"Domain": "lz",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "lanzhou",
+	"PY": "lz"
+}, {
+	"Id": "107",
+	"AreaName": "乌鲁木齐",
+	"Domain": "wlmq",
+	"PinYin": "wulumuqi",
+	"PY": "wlmq"
+}, {
+	"Id": "108",
+	"AreaName": "石河子",
+	"Domain": "shz",
+	"PinYin": "shihezi",
+	"PY": "shz"
+}, {
+	"Id": "109",
+	"AreaName": "博乐",
+	"Domain": "bl",
+	"PinYin": "bole",
+	"PY": "b"
+}, {
+	"Id": "110",
+	"AreaName": "塔城",
+	"Domain": "tacheng",
+	"PinYin": "tacheng",
+	"PY": "tc"
+}, {
+	"Id": "111",
+	"AreaName": "阿勒泰",
+	"Domain": "alt",
+	"PinYin": "aletai",
+	"PY": "alt"
+}, {
+	"Id": "112",
+	"AreaName": "伊宁",
+	"Domain": "yn",
+	"PinYin": "yining",
+	"PY": "yn"
+}, {
+	"Id": "113",
+	"AreaName": "哈密",
+	"Domain": "hm",
+	"PinYin": "hami",
+	"PY": "hm"
+}, {
+	"Id": "114",
+	"AreaName": "昌吉",
+	"Domain": "cj",
+	"PinYin": "changji",
+	"PY": "cj"
+}, {
+	"Id": "115",
+	"AreaName": "克拉玛依",
+	"Domain": "klmy",
+	"PinYin": "kelamayi",
+	"PY": "klmy"
+}, {
+	"Id": "116",
+	"AreaName": "阿克苏",
+	"Domain": "aks",
+	"PinYin": "akesu",
+	"PY": "aks"
+}, {
+	"Id": "117",
+	"AreaName": "吐鲁番",
+	"Domain": "tlf",
+	"PinYin": "tulufan",
+	"PY": "tlf"
+}, {
+	"Id": "118",
+	"AreaName": "库尔勒",
+	"Domain": "kel",
+	"PinYin": "kuerle",
+	"PY": "kel"
+}, {
+	"Id": "119",
+	"AreaName": "喀什",
+	"Domain": "kashi",
+	"PinYin": "kashi",
+	"PY": "ks"
+}, {
+	"Id": "120",
+	"AreaName": "阿图什",
+	"Domain": "ats",
+	"PinYin": "atushi",
+	"PY": "ats"
+}, {
+	"Id": "121",
+	"AreaName": "和田",
+	"Domain": "hetian",
+	"PinYin": "hetian",
+	"PY": "ht"
+}, {
+	"Id": "122",
+	"AreaName": "五家渠",
+	"Domain": "wjq",
+	"PinYin": "wujiaqu",
+	"PY": "wjq"
+}, {
+	"Id": "123",
+	"AreaName": "图木舒克",
+	"Domain": "tmsk",
+	"PinYin": "tumushuke",
+	"PY": "tmsk"
+}, {
+	"Id": "124",
+	"AreaName": "阿拉尔",
+	"Domain": "ale",
+	"PinYin": "alaer",
+	"PY": "ale"
+}, {
+	"Id": "100",
+	"AreaName": "拉萨",
+	"Domain": "lasa",
+	"PinYin": "lasa",
+	"PY": "ls"
+}, {
+	"Id": "101",
+	"AreaName": "日喀则",
+	"Domain": "rkz",
+	"PinYin": "rikaze",
+	"PY": "rd"
+}, {
+	"Id": "102",
+	"AreaName": "泽当",
+	"Domain": "zd",
+	"PinYin": "zedang",
+	"PY": "zd"
+}, {
+	"Id": "103",
+	"AreaName": "昌都",
+	"Domain": "changdu",
+	"PinYin": "changdu",
+	"PY": "cd"
+}, {
+	"Id": "104",
+	"AreaName": "八一",
+	"Domain": "bayi",
+	"PinYin": "bayi",
+	"PY": "by"
+}, {
+	"Id": "105",
+	"AreaName": "噶尔",
+	"Domain": "ge",
+	"PinYin": "gaer",
+	"PY": "ge"
+}, {
+	"Id": "106",
+	"AreaName": "那曲",
+	"Domain": "nq",
+	"PinYin": "naqu",
+	"PY": "nq"
+}, {
+	"Id": "91",
+	"AreaName": "西宁",
+	"Domain": "xn",
+	"PinYin": "xining",
+	"PY": "xn"
+}, {
+	"Id": "92",
+	"AreaName": "德令哈",
+	"Domain": "dlh",
+	"PinYin": "delingha",
+	"PY": "dlh"
+}, {
+	"Id": "93",
+	"AreaName": "平安",
+	"Domain": "pa",
+	"PinYin": "pingan",
+	"PY": "pg"
+}, {
+	"Id": "94",
+	"AreaName": "共和",
+	"Domain": "gh",
+	"PinYin": "gonghe",
+	"PY": "gh"
+}, {
+	"Id": "95",
+	"AreaName": "玛沁",
+	"Domain": "mq",
+	"PinYin": "maqin",
+	"PY": "mq"
+}, {
+	"Id": "96",
+	"AreaName": "同仁",
+	"Domain": "tongrenqh",
+	"PinYin": "tongren",
+	"PY": "tr"
+}, {
+	"Id": "97",
+	"AreaName": "玉树",
+	"Domain": "ys",
+	"PinYin": "yushu",
+	"PY": "ys"
+}, {
+	"Id": "98",
+	"AreaName": "西海",
+	"Domain": "xh",
+	"PinYin": "xihai",
+	"PY": "xh"
+}, {
+	"Id": "99",
+	"AreaName": "格尔木",
+	"Domain": "gem",
+	"PinYin": "geermu",
+	"PY": "gem"
+}, {
+	"Id": "77",
+	"AreaName": "曲靖",
+	"Domain": "qujing",
+	"PinYin": "qujing",
+	"PY": "qj"
+}, {
+	"Id": "78",
+	"AreaName": "大理",
+	"Domain": "dali",
+	"PinYin": "dali",
+	"PY": "dl"
+}, {
+	"Id": "79",
+	"AreaName": "保山",
+	"Domain": "baoshan",
+	"PinYin": "baoshan",
+	"PY": "bs"
+}, {
+	"Id": "80",
+	"AreaName": "昭通",
+	"Domain": "zt",
+	"PinYin": "zhaotong",
+	"PY": "zt"
+}, {
+	"Id": "81",
+	"AreaName": "楚雄",
+	"Domain": "cx",
+	"PinYin": "chuxiong",
+	"PY": "cx"
+}, {
+	"Id": "82",
+	"AreaName": "思茅",
+	"Domain": "simao",
+	"PinYin": "simao",
+	"PY": "sm"
+}, {
+	"Id": "83",
+	"AreaName": "玉溪",
+	"Domain": "yx",
+	"PinYin": "yuxi",
+	"PY": "yx"
+}, {
+	"Id": "84",
+	"AreaName": "丽江",
+	"Domain": "lj",
+	"PinYin": "lijiang",
+	"PY": "lj"
+}, {
+	"Id": "85",
+	"AreaName": "香格里拉",
+	"Domain": "xgll",
+	"PinYin": "xianggelila",
+	"PY": "xgll"
+}, {
+	"Id": "86",
+	"AreaName": "蒙自",
+	"Domain": "mengzi",
+	"PinYin": "mengzi",
+	"PY": "mz"
+}, {
+	"Id": "87",
+	"AreaName": "景洪",
+	"Domain": "jinghong",
+	"PinYin": "jinghong",
+	"PY": "jh"
+}, {
+	"Id": "88",
+	"AreaName": "临沧",
+	"Domain": "lincang",
+	"PinYin": "lincang",
+	"PY": "lc"
+}, {
+	"Id": "89",
+	"AreaName": "潞西",
+	"Domain": "luxi",
+	"PinYin": "luxi",
+	"PY": "lx"
+}, {
+	"Id": "90",
+	"AreaName": "个旧",
+	"Domain": "gj",
+	"PinYin": "gejiu",
+	"PY": "gj"
+}, {
+	"Id": "76",
+	"AreaName": "昆明",
+	"Domain": "km",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "kunming",
+	"PY": "km"
+}, {
+	"Id": "68",
+	"AreaName": "铜仁",
+	"Domain": "tongren",
+	"PinYin": "tongren",
+	"PY": "tr"
+}, {
+	"Id": "69",
+	"AreaName": "凯里",
+	"Domain": "kl",
+	"PinYin": "kaili",
+	"PY": "kl"
+}, {
+	"Id": "70",
+	"AreaName": "安顺",
+	"Domain": "anshun",
+	"PinYin": "anshun",
+	"PY": "as"
+}, {
+	"Id": "71",
+	"AreaName": "都匀",
+	"Domain": "duyun",
+	"PinYin": "duyun",
+	"PY": "dy"
+}, {
+	"Id": "72",
+	"AreaName": "兴义",
+	"Domain": "xingyi",
+	"PinYin": "xingyi",
+	"PY": "xy"
+}, {
+	"Id": "73",
+	"AreaName": "六盘水",
+	"Domain": "lps",
+	"PinYin": "liupanshui",
+	"PY": "lps"
+}, {
+	"Id": "74",
+	"AreaName": "遵义",
+	"Domain": "zunyi",
+	"PinYin": "zunyi",
+	"PY": "zy"
+}, {
+	"Id": "75",
+	"AreaName": "毕节",
+	"Domain": "bijie",
+	"PinYin": "bijie",
+	"PY": "bj"
+}, {
+	"Id": "67",
+	"AreaName": "贵阳",
+	"Domain": "guiyang",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "guiyang",
+	"PY": "gy"
+}, {
+	"Id": "54",
+	"AreaName": "百色",
+	"Domain": "baise",
+	"PinYin": "baise",
+	"PY": "bs"
+}, {
+	"Id": "55",
+	"AreaName": "钦州",
+	"Domain": "qinzhou",
+	"PinYin": "qinzhou",
+	"PY": "qz"
+}, {
+	"Id": "56",
+	"AreaName": "北海",
+	"Domain": "bh",
+	"PinYin": "beihai",
+	"PY": "bh"
+}, {
+	"Id": "57",
+	"AreaName": "玉林",
+	"Domain": "yl",
+	"PinYin": "yulin",
+	"PY": "yl"
+}, {
+	"Id": "58",
+	"AreaName": "桂林",
+	"Domain": "gl",
+	"PinYin": "guilin",
+	"PY": "gl"
+}, {
+	"Id": "59",
+	"AreaName": "梧州",
+	"Domain": "wuzhou",
+	"PinYin": "wuzhou",
+	"PY": "wz"
+}, {
+	"Id": "60",
+	"AreaName": "柳州",
+	"Domain": "liuzhou",
+	"PinYin": "liuzhou",
+	"PY": "lz"
+}, {
+	"Id": "61",
+	"AreaName": "河池",
+	"Domain": "hc",
+	"PinYin": "hechi",
+	"PY": "hc"
+}, {
+	"Id": "62",
+	"AreaName": "崇左",
+	"Domain": "chongzuo",
+	"PinYin": "chongzuo",
+	"PY": "cz"
+}, {
+	"Id": "63",
+	"AreaName": "贵港",
+	"Domain": "guigang",
+	"PinYin": "guigang",
+	"PY": "gy"
+}, {
+	"Id": "64",
+	"AreaName": "贺州",
+	"Domain": "hezhou",
+	"PinYin": "hezhou",
+	"PY": "hz"
+}, {
+	"Id": "65",
+	"AreaName": "来宾",
+	"Domain": "lb",
+	"PinYin": "laibin",
+	"PY": "lb"
+}, {
+	"Id": "66",
+	"AreaName": "防城港",
+	"Domain": "fcg",
+	"PinYin": "fangchenggang",
+	"PY": "fcg"
+}, {
+	"Id": "53",
+	"AreaName": "南宁",
+	"Domain": "nn",
+	"Hot": "1",
+	"Color": "#ff0000",
+	"PinYin": "nanning",
+	"PY": "nn"
+}, {
+	"Id": "50",
+	"AreaName": "琼海",
+	"Domain": "qh",
+	"PinYin": "qionghai",
+	"PY": "qh"
+}, {
+	"Id": "51",
+	"AreaName": "三亚",
+	"Domain": "sanya",
+	"PinYin": "sanya",
+	"PY": "sy"
+}, {
+	"Id": "52",
+	"AreaName": "五指山",
+	"Domain": "wzs",
+	"PinYin": "wuzhishan",
+	"PY": "wzs"
+}, {
+	"Id": "49",
+	"AreaName": "海口",
+	"Domain": "haikou",
+	"PinYin": "haikou",
+	"PY": "hk"
+}, {
+	"Id": "46",
+	"AreaName": "香港",
+	"Domain": "hongkong",
+	"PinYin": "xianggang",
+	"PY": "xg"
+}, {
+	"Id": "47",
+	"AreaName": "澳门",
+	"Domain": "am",
+	"PinYin": "aomen",
+	"PY": "am"
+}, {
+	"Id": "48",
+	"AreaName": "台湾",
+	"Domain": "tw",
+	"PinYin": "taiwan",
+	"PY": "tw"
+}]
